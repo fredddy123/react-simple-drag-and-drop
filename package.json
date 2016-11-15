@@ -1,0 +1,15 @@
+{
+  "name": "react_simple_drag_and_drop",
+  "version": "1.0.0",
+  "description": "simple draggable react component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fredddy123",
+  "license": "ISC",
+  "repository": {
+      "type" : "git",
+      "url" : "https://github.com/fredddy123/react-simple-drag-and-drop"
+  }
+}
