@@ -18,6 +18,8 @@ this piece of code is taken from my chess game
 
 ```javascript
 ...
+import Draggable from 'react_simple_drag_and_drop';
+...
 <div
     className={styles.Chessboard}
     style={{
