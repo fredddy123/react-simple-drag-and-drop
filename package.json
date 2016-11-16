@@ -1,6 +1,6 @@
 {
   "name": "react_simple_drag_and_drop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple draggable react component",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "fredddy123",
   "license": "ISC",
   "repository": {
-      "type" : "git",
-      "url" : "https://github.com/fredddy123/react-simple-drag-and-drop"
+    "type": "git",
+    "url": "https://github.com/fredddy123/react-simple-drag-and-drop"
   }
 }
