@@ -23,7 +23,7 @@ this piece of code is taken from my chess game
     style={{
         position: 'relative'
     }}
-    ref = {node => node = this.parentNode}
+    ref = {node => this.parentNode = node}
 >
     <Draggable
         parentNode = {this.parentNode}
