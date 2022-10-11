@@ -64,5 +64,3 @@ import Draggable from 'react_simple_drag_and_drop';
 </div>
 ...
 ```
-queen draggs
-![alt text](http://i.piccy.info/i9/7b1a5ff9f2a68bcbe2e0dd7b2235959c/1479258256/27002/1090198/qweqweqwe.png)
